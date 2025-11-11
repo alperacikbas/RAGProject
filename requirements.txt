@@ -1,0 +1,17 @@
+# Sohbet Modeli (Gemini) ve LangChain Çekirdeği
+langchain
+langchain-core
+langchain-google-genai
+langchain-classic
+
+# Arayüz
+customtkinter
+
+# PDF Yükleme ve Vektör Veritabanı
+pypdf
+faiss-cpu
+langchain-text-splitters
+
+# YEREL EMBEDDING (Yeni Eklenenler)
+sentence-transformers
+langchain-huggingface
